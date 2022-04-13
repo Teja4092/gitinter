@@ -1,7 +1,7 @@
 This is a code file
 
-
+<<<<<<< HEAD
 Changes made in Dev branch
-
+=======
 Changes made in prod
-
+>>>>>>> prod
